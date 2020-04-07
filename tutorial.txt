@@ -1,6 +1,2 @@
 This is a developer branch. Always push to develop.
-<<<<<<< HEAD
 kriti
-=======
-changes by kriti
->>>>>>> 4978ff32b74734b2c0751ee499915ab438fd9d7c
