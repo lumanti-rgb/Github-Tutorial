@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a developer branch. Always push to develop.
 hello
+=======
+Add one file of your name
+>>>>>>> 6eeac7cbee2437b1547f6443cffb608668d1429f
