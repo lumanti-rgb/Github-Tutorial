@@ -1,22 +1,4 @@
-﻿
-﻿
-﻿This is a developer branch. Always push to develop.
-Subha
 
-This is a developer branch. Always push to develop.
+This is a developer branch. Always push to develop.hello mellows
 
-kriti
-
-
-This is a developer branch. Always push to develop.helloppp
-
-
-
-This is a developer branch. Always push to develop.
-I am changing the text document. 
-This is a developer branch. Always push to develop.
-hello
-
-absek
-kriti
 
