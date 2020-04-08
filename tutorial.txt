@@ -1,13 +1,5 @@
 
 
-This is a developer branch. Always push to develop.helloppp
-
-
 This is a developer branch. Always push to develop.
-
-hello
-
-
-absek
-kriti
+okay
 
